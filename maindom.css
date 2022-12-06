@@ -1,0 +1,206 @@
+div[class = divler] {
+float: left;
+}
+
+div[id=butonlar]{
+float: left;
+margin-left: 0px;
+margin-top: 10px;
+width: 350px;
+height: 330px;
+background-color: rgb(233, 231, 231);
+}
+
+div[id=btnsayilar]{
+    z-index: 0;
+    position: absolute;
+    float: left;
+    margin-left: 0px;
+    margin-top: 80px;
+    width: 230px;
+    height: 260px;
+    background-color: rgb(233, 231, 231);
+    clip-path: polygon(50% 0%, 97% 0, 97% 76%, 69% 77%, 69% 100%, 40% 100%, 40% 76%, 0 77%, 0 0);
+    }
+
+
+div[id=div2] {
+    border: 1px solid black;
+    width: 350px;
+    height:470px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: rgb(233, 231, 231);
+    
+}
+
+
+div[id=div1] {
+    
+    border: 1px solid black;
+    width: 265px;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 40px;
+    background-color: rgb(185, 185, 185);
+    
+   
+}
+
+div[id=div3] {
+    
+    border: 1px solid black;
+    width: 350px;
+    height:470px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: rgb(248, 245, 245);
+    
+    
+    
+}
+
+label[id=lbl1] {
+
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 0px;
+    text-align: center;
+}
+
+input[id=butc] {
+width: 60px;
+height: 60px;    
+margin-top: 0px;
+margin-left: 95px;
+}
+
+input[id=butsil] {
+width: 60px;
+height: 60px;    
+margin-top: 10px;
+margin-left: 5px;
+}
+
+input[id=butx] {
+width: 60px;
+height: 60px;    
+margin-top: 10px;
+margin-left: 5px;
+}
+
+input[id=but1] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 30px;
+}
+
+input[id=but2] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+
+input[id=but3] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+input[id=butbolu] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 225px;
+}
+
+input[id=but4] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 30px;
+}
+
+
+input[id=but5] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+input[id=but6] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+input[id=buteksi] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 225px;
+}
+
+input[id=but7] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 30px;
+}
+
+input[id=but8] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+input[id=but9] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
+
+input[id=butarti] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 225px;
+}
+
+input[id=butae] {
+z-index: 1;
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 30px;
+}
+
+input[id=but0] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 95px;
+}
+
+input[id=butvrgl] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 70px;
+}
+
+input[id=butesit] {
+width: 60px;
+height: 60px;    
+margin-top: 5px;
+margin-left: 5px;
+}
